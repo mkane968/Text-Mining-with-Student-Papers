@@ -11,4 +11,6 @@ Can also convert individual files from docx (or any other file extension) to tex
 
 In either case, page numbers and other headers will NOT be included in converted documents. 
 
-Load plain text files into this script for preprocessing and cleaning: https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Uploading_and_Cleaning_Student_Essays_&_Metadata.ipynb
+You will also need a CSV file with metadata for each essay, including student ID and essay score. See data folder for example. 
+
+Load plain text files and metadata into this script to clean and merge: https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Uploading_and_Cleaning_Student_Essays_&_Metadata.ipynb
