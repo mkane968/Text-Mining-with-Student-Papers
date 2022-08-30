@@ -3,7 +3,7 @@ Python script for processing and analyzing textual features extracted from stude
 
 ## Preliminaries
 
-To use these scripts, you will need a corpus of student writing--it will likely be a folder of individual essays in docx format donwloaded from Canvas. 
+To use these scripts, you will need a corpus of student writing--a folder of individual essays in docx format donwloaded from Canvas works best. 
 
 Batch convert all files in a folder from docx to txt using the following command in terminal: `textutil -convert txt /path/to/DOCX/files/*.docx`  
 
