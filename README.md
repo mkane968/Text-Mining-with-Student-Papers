@@ -1,4 +1,4 @@
-# Text-Mining-with-Student-Papers
+# Text Mining with Student Papers
 Python script for processing and analyzing textual features extracted from student essays. 
 
 ## Preliminaries
