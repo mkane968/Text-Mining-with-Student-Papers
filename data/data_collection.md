@@ -1,4 +1,4 @@
-# Instructions for Data Management
+# Instructions for Data Collection
 The two primary types of data needed for this project are student portfolios and their associated metadata (student ID numbers, section numbers, grades). Below are instructions to be shared with faculty so they can retrieve this data from their course sections, as well as instructions for researchers to aggregate the data and prepare for cleaning.
 
 ## How to Download Portfolios from Canvas (for Instructors)
