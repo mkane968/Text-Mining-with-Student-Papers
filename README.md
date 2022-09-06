@@ -5,7 +5,7 @@ Python script for processing and analyzing textual features extracted from stude
 
 To use these scripts, you will need a corpus of student writing--a folder of individual essays in txt format works best. 
 
-*Collecting writing from instructors? See the [template for data collection](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/data/data_management.md) in `/data` folder of this repository.*
+*Collecting writing from instructors? See the [template for data collection](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/data/data_management.md) in the `/data` folder of this repository.*
 
 To convert all files in a folder from docx to txt, use the following command in terminal: `textutil -convert txt /path/to/DOCX/files/*.docx`  
 
