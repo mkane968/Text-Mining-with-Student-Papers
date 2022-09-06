@@ -15,4 +15,4 @@ In any case, page numbers and other headers will NOT be included in converted do
 
 You will also need a CSV file with metadata for each essay, including student ID, course section, and essay score. See data folder for example. 
 
-Load plain text files and metadata into the script in this repo to clean and merge.
+Load plain text files and metadata into [this script](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Clean%20and%20Merge%20Essays%20%26%20Metadata.ipynb) in the /notebooks folder this repository to clean and merge.
