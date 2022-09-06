@@ -46,4 +46,4 @@ Once in Grades, you will want to filter your Gradebook so the correct metadata c
 
 **Portfolios:** Download all ZIP folders and extract all student portfolios into a SINGLE folder on local machine. Run the following code to convert all documents in the file to txt files: `textutil -convert txt /path/to/DOCX/files/*.docx`  
 
-**Metadata*:** Download all csv files and consolidate into one master file using the Excel consolidate method OR dataframe.append in Python (need to test to see which is easier for multiple files). 
+**Metadata:** Download all csv files and consolidate into one master file using the Excel consolidate method OR dataframe.append in Python (need to test to see which is easier for multiple files). 
