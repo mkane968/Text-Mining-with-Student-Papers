@@ -4,7 +4,7 @@ Python script for processing and analyzing textual features extracted from stude
 ## Data Collection
 To use these scripts, you will need a corpus of student writing--a folder of individual essays in txt format works best. You will also need a CSV file with metadata for each essay, including student ID, course section, and essay score. See `/data` folder for examples.
 
-Collecting writing from instructors? See the [template for data collection](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/data/data_management.md) in the `/data` folder of this repository.
+Collecting writing from instructors? See the [template for data collection](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/data/data_collection.md) in the `/data` folder of this repository.
 
 ## Data Conversion
 Data must be in the following formats: 
