@@ -1,5 +1,5 @@
 # Text Mining with Student Papers
-Python script for processing and analyzing textual features extracted from student essays. 
+This repository includes instructions and Python scripts for processing and analyzing textual features extracted from student essays. 
 
 ## Data Collection
 To use these scripts, you will need a corpus of student writing--a folder of individual essays in txt format works best. You will also need a CSV file with metadata for each essay, including student ID, course section, and essay score. See `/data` folder for examples.
