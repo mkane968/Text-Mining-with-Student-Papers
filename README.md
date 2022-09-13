@@ -16,4 +16,6 @@ If student essays are originally in docx format, conversion to txt is necessary.
 Convert individual files from docx (or any other file extension) to text by going to "File -> Save As ->" and selecting txt as extension. Do this if small batch of files  has different extension like .pages or .pdf. 
 
 ## Using the Code
-Clean and merge all text files and metadata using [this script.](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Clean%20and%20Merge%20Essays%20%26%20Metadata.ipynb)
+Associate all student essays with their metadata using [this script.](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Merge_Student_Essays_%26_Metadata.ipynb)
+
+Perform basic cleaning and exploratory text mining on essays using this script.
