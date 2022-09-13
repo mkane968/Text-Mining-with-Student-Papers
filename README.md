@@ -18,4 +18,4 @@ Convert individual files from docx (or any other file extension) to text by goin
 ## Code Usage
 [**Merge Student Essays and Metadata**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Associate_Student_Essays_%26_Metadata.ipynb): Associate all student essays with their metadata in a pandas dataframe and download as a tsv file/
 
-**Preprocessing & Basic Text Analysis**: Perform basic cleaning and exploratory text mining on essays. 
+[**Preprocessing & Basic Text Analysis**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Preprocessing_and_Basic_Text_Analysis.ipynb): Perform basic cleaning and exploratory text mining on essays. 
