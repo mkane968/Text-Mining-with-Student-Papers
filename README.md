@@ -15,7 +15,7 @@ Using a combination of natural language processing techniques, each essay can th
 
 *Outcomes from ENG 701 Syllabus, Temple University First-Year Writing Program, Revised June 2022*
 
-Once texts have been searched for these outcomes, their surrounding context can be retrieved and stored for further analysis. Since each text is associated with its grade metadata, researchers can investigate trends in language patterns and their differences across high (A), mid-range (B-C) and low-scoring (D-F) essays. This can be done using natural-language processing tools in this repository as well as by using [the DocuScope tool.](https://www.cmu.edu/dietrich/english/research-and-publications/docuscope.html)
+Once texts have been searched for these outcomes, their surrounding context can be retrieved and stored for further analysis. Since each text is associated with its grade metadata, researchers can investigate trends in language patterns and their differences; for example, across high (A), mid-range (B-C) and low-scoring (D-F) essays. This can be done using natural-language processing tools in this repository as well as by using [the DocuScope tool.](https://www.cmu.edu/dietrich/english/research-and-publications/docuscope.html)
 
 
 ## Data Collection
