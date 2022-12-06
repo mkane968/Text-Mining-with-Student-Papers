@@ -35,5 +35,6 @@ If student essays are originally in docx format, conversion to txt is necessary.
 Convert individual files from docx (or any other file extension) to text by going to "File -> Save As ->" and selecting txt as extension. Do this if small batch of files  has different extension like .pages or .pdf. 
 
 ## Code Usage (Work in Progress)
-[**/Notebooks/Text Mining Student Papers**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Text_Mining_Student_Papers_12_2022.ipynb): A complete pipeline to upload student essays into a pandas dataframe, associate with their metadata, perform basic cleaning and paragraph segmentation, and conduct keyword searches and frequency and regression and analysis based on language features linked to writing program outcomes. 
-[**/Notebooks/Old-Drafts**](https://github.com/mkane968/Text-Mining-with-Student-Papers/tree/main/notebooks/old-drafts): Contains all prior/defunct versions of the code, developed over Fall 2022. 
+[**/notebooks/Text Mining Student Papers**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Text_Mining_Student_Papers_12_2022.ipynb): A complete pipeline to upload student essays into a pandas dataframe, associate with their metadata, perform basic cleaning and paragraph segmentation, and conduct keyword searches and frequency and regression and analysis based on language features linked to writing program outcomes. 
+
+[**/notebooks/Old-Drafts**](https://github.com/mkane968/Text-Mining-with-Student-Papers/tree/main/notebooks/old-drafts): Contains all prior/defunct versions of the code, developed over Fall 2022. 
