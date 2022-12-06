@@ -1,6 +1,8 @@
 # Text Mining with Student Papers
 This repository includes instructions and Python scripts for processing and analyzing textual features extracted from student essays. 
 
+Updated December 2022
+
 ## About The Project
 This repository lets users clean, explore and analyze student academic essays through a multi-step pipeline.
 
@@ -33,10 +35,5 @@ If student essays are originally in docx format, conversion to txt is necessary.
 Convert individual files from docx (or any other file extension) to text by going to "File -> Save As ->" and selecting txt as extension. Do this if small batch of files  has different extension like .pages or .pdf. 
 
 ## Code Usage (Work in Progress)
-[**Master Pipeline**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Student_Essay_Text_Mining_Master_Pipeline.ipynb): Contains all steps from uploading initial files to sectioning and analyzing texts based on evidence of outcomes uptake.
-
-[**Associate Student Essays and Metadata**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Associate_Student_Essays_%26_Metadata.ipynb): Merge all student essays into single dataframe, associate with their metadata in a master dataframe and download as a tsv file.
-
-[**Preprocessing & Basic Text Analysis**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Preprocessing_and_Basic_Text_Analysis.ipynb): Perform basic cleaning and exploratory text mining using tsv file of student essays associated with metadata. 
-
-[**Section Texts Based on Outcomes**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Section_Texts_Based_on_Outcomes.ipynb): Perform text sectioning and analysis based on outcomes related to rhetorical analysis, citation and argumentation 
+[**Text Mining Student Papers**](SOURCE): A complete pipeline to upload student essays into a pandas dataframe, associate with their metadata, perform basic cleaning and paragraph segmentation, and conduct keyword searches and frequency and regression and analysis based on language features linked to writing program outcomes. 
+[**Drafts**](https://github.com/mkane968/Text-Mining-with-Student-Papers/blob/main/notebooks/Student_Essay_Text_Mining_Master_Pipeline.ipynb): Contains all prior/defunct versions of the code, developed over Fall 2022. 
